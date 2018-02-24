@@ -1,0 +1,7 @@
+name: OreRestrictor
+main: me.Zackpollard.OreRestrictor.OreRestrictor
+version: 0.1
+commands:
+    cg:
+        description: or
+        usage: Use /or reload to reload the configuration
